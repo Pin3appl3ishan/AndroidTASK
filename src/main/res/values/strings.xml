@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TaskAndroid</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="edit_picture_or_avatar">Edit picture or avatar</string>
+    <string name="save">Save</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="choose_date">Pick Date</string>
+    <string name="textview">Date of Birth</string>
+    <string name="gender">Gender</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+</resources>
